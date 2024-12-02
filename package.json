@@ -1,0 +1,25 @@
+{
+  "name": "adventofcode2024",
+  "version": "1.0.0",
+  "description": "My solutions for advent of code 2024",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelSault/AdventOfCode2024.git"
+  },
+  "keywords": [
+    "advant",
+    "of",
+    "code",
+    "node"
+  ],
+  "author": "Michael Sault",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelSault/AdventOfCode2024/issues"
+  },
+  "homepage": "https://github.com/MichaelSault/AdventOfCode2024#readme"
+}
